@@ -3,7 +3,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 # 💫 About Me:
-- 👨🏻‍💻 I am an Principal Architect in Quality Automation Specialist (QAS), Working with Natwest Group <br>
+- 👨🏻‍💻 I am an **Principal Architect in Quality Automation Specialist (QAS)**, Working with **Natwest Group** <br>
 - 📚 Believes in continuous upskilling with new set of tools and technologies <br>
 - ☁️ Passionate in cloud computing and DevOps concepts<br>
 - 📝 Technical content creator and regularly write articles on below blogs<br>

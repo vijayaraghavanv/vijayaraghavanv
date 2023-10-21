@@ -13,6 +13,8 @@
 - 💬 Ask me about Testing Process, AWS, Cloud Computing, Cypress, Selenium, Framework Set Up, CI/CD<br>
 - 📧 You can reach me at vijayaraghavan89@gmail.com or automatewithraghavan@gmail.com<br><br>
 
+![](https://komarev.com/ghpvc/?username=vijayaraghavanv&color=brightgreen)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ## 🌐 Socials:

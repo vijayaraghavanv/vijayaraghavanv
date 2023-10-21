@@ -17,7 +17,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
-### 🌐 Socials:
+### 🌐 Social Media Handles:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vj.raghavan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayaraghavanvashudevan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@VijayaraghavanVashudevan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imraghavan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmN0TMmkol3bx-Arbuo7a5w) [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/vijayaraghavanv)
 
 ### 💻 Tech Stack:

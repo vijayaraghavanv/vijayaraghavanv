@@ -22,11 +22,13 @@
       ↪ https://dev.to/vjraghavanv<br>
 - 🎞️ YouTuber
       ↪ https://www.youtube.com/channel/UCmN0TMmkol3bx-Arbuo7a5w
+- 👷 Volunteer
+     ↪ Active volunteer of Test Sigma (Testing community),Browserstack(Testing community),AWS User Group Madurai(AWS UG Community),AWS User Group NCR Delhi(AWS UG Community)
 - 💬 Ask me about Testing Process, AWS, Cloud Computing, Cypress, Selenium, Framework Set Up, CI/CD<br>
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at vijayaraghavan89@gmail.com or automatewithraghavan@gmail.com<br><br>
 
-![](https://komarev.com/ghpvc/?username=vijayaraghavanv&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=vjraghavanv&color=brightgreen)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
@@ -235,24 +237,24 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vijayaraghavanv&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vijayaraghavanv&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaraghavanv&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vjraghavanv&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vjraghavanv&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjraghavanv&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vijayaraghavanv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vjraghavanv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vijayaraghavanv&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vjraghavanv&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vijayaraghavanv&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vjraghavanv&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vijayaraghavanv)

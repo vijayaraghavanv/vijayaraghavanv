@@ -259,7 +259,7 @@
 ## Connect with me  
 
 <div align="left">
-    <img src=" <img src="images/gif/VJ_Headshot.jpg" width="300">
+    <img src="images/gif/VJ_Headshot.jpg" width="300">
 </div>
 
 <a href="https://github.com/vjraghavanv" target="_blank">

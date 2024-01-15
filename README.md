@@ -18,12 +18,12 @@
 - 📚 Believes in continuous upskilling with new set of tools and technologies <br>
 - ☁️ Passionate in cloud computing and DevOps concepts<br>
 - ✍️ Technical content creator and regularly write articles on below blogs<br>
-      ↪ https://medium.com/@vjraghavanv<br>
-      ↪ https://dev.to/vjraghavanv<br>
-- 🎞️ YouTuber
-      ↪ https://www.youtube.com/channel/UCmN0TMmkol3bx-Arbuo7a5w
-- 👷 Volunteer
-     ↪ Active volunteer of Test Sigma (Testing community),Browserstack(Testing community),AWS User Group Madurai(AWS UG Community),AWS User Group NCR Delhi(AWS UG Community)
+        ↪ https://medium.com/@vjraghavanv<br>
+        ↪ https://dev.to/vjraghavanv<br>
+- 🎞️ YouTuber<br>
+        ↪ https://www.youtube.com/channel/UCmN0TMmkol3bx-Arbuo7a5w
+- 👷 Volunteer<br>
+        ↪ Active volunteer of Test Sigma (Testing community),Browserstack(Testing community),AWS User Group Madurai(AWS UG Community),AWS User Group NCR Delhi(AWS UG Community)
 - 💬 Ask me about Testing Process, AWS, Cloud Computing, Cypress, Selenium, Framework Set Up, CI/CD<br>
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at vijayaraghavan89@gmail.com or automatewithraghavan@gmail.com<br><br>

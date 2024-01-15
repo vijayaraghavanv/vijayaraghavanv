@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="images/gif/Vijayaraghavan.gif">
 </p>
 
@@ -208,7 +208,7 @@
 # 🗣️ 🎙️ My Presentation in Other Conferences and Events.
         🌈 https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023
         <p align="center">
-        <img src="images/gif/Vijayaraghavan.gif">
+        <img src="images/gif/azconf.gif">
         </p>
     
    

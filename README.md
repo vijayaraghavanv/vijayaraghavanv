@@ -150,7 +150,68 @@
 
  ⛈️        [AWS Prelude](https://dev.to/vjraghavanv/aws-prelude-360i)
 <!-- BLOG-POST-LIST:END -->
- 
+
+# 🎥 &nbsp;<code style="color: blue">𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐛𝐥𝐨𝐠 𝐩𝐨𝐬𝐭𝐬</code> 🎦
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmN0TMmkol3bx-Arbuo7a5w)
+
+<!-- YOUTUBE-POST-LIST:START -->
+  ⛈️    [AZConf Video - Amazon Rekognition](https://www.youtube.com/watch?v=D0gc9ECdIEQ)
+
+  🕵🏻     [SelectorsHub NextGen 5.0 features](https://www.youtube.com/watch?v=GEgzkdbLml4)
+  
+  ⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://www.youtube.com/watch?v=HtA7UjMPcG8&t=555s)
+    
+  ⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://www.youtube.com/watch?v=NbP9VLq3gwc)
+      
+  ⛈️     [Creation of AWS resources using Terraform](https://www.youtube.com/watch?v=nOh6YCLeGhU)
+    
+  ⛈️     [How to create Auto Scaling Group (ASG) to work with an Application Load Balancer(ALB)](https://www.youtube.com/watch?v=LkKZjUip9oM)
+    
+  ⛈️     [Hosting Web Application using Amazon Amplify & backend integration using serverless-End to end flow](https://www.youtube.com/watch?v=RHgWxCn1IoM)
+
+  ⛈️     [Use case example of How to access the static webpage from S3 through Amazon Cloudfront](https://www.youtube.com/watch?v=j6ZqKELDbX8)
+
+  ⛈️     [Use case on Elastic Network Interface(ENI) in EC2 Instances over VPC](https://www.youtube.com/watch?v=GmwQSnwtWYw)
+
+  🕵🏻     [Pynt - API Automated Security Testing Tool using CI/CD](https://www.youtube.com/watch?v=DtrgHQI5HgI)
+
+  ⛈️     [Amazon Rekognition - To detect, analyze and process the images](https://www.youtube.com/watch?v=JZ80WpxQFqA)
+
+  ⛈️     [Amazon Comprehend - To process the text](https://www.youtube.com/watch?v=9cI2kwPeOc4)
+
+  ⛈️     [Amazon Transcribe - Speech to Text](https://www.youtube.com/watch?v=w3jeMTrEEB0)
+
+  🕵🏻     [testsigma | Low Code API Automation testing tool | Restful API testing|](https://www.youtube.com/watch?v=go3ofAziTOc)
+
+  ⛈️     [Amazon Extract](https://www.youtube.com/watch?v=Oex0Ar1BT6c)
+
+  ⛈️     [Amazon Polly - Text to Speech](https://www.youtube.com/watch?v=sLXgAeNbSSg)
+
+  ⛈️     [Create REST API using AWS Lambda and API Gateway with Dynamo DB](https://www.youtube.com/watch?v=-NtrgL0Jntc&t=115s)
+
+  🕵🏻     [Pynt - API Automated Security Testing Tool using Newman](https://www.youtube.com/watch?v=94UTiXdUvAA&t=2s)
+
+  🕵🏻     [Pynt - API Automated Security Testing Tool using Postman](https://www.youtube.com/watch?v=Vbz7jGdf5UY) 
+
+  🕵🏻⛈️  [How to run Selenium tests in EC2 Instances using Docker](https://www.youtube.com/watch?v=InLRtfIoBZw)
+
+  🕵🏻⛈️  [How do we use AWS Code Commit, Code Build and Code Pipeline for running the selenium execution](https://www.youtube.com/watch?v=22xgyag70zw)
+
+  🕵🏻⛈️  [Running the UI Selenium suite in AWSDeviceFarm](https://www.youtube.com/watch?v=F1MH218mA7E&t=127s)
+
+  ⛈️    [Hosting a static public website in AWS S3 bucket](https://www.youtube.com/watch?v=q5KtCqjWsB8)
+
+  🕵🏻    [Overview of Pynt - API Security Testing](https://www.youtube.com/watch?v=3vXt-_1VO3c)
+
+<!-- YOUTUBE-POST-LIST:END -->   
+
+# 🗣️ 🎙️ My Presentation in Other Conferences and Events.
+        🌈 https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023
+        <p align="center">
+        <img src="images/gif/Vijayaraghavan.gif">
+        </p>
+    
+   
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 

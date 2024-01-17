@@ -40,106 +40,147 @@
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vjraghavanv) 
  <!-- BLOG-POST-LIST:START -->
 
- ⛈️    [Creation of Storage Infrastructure(S3 Bucket) using CloudFormation](https://medium.com/@vjraghavanv/creation-of-storage-infrastructure-s3-bucket-using-cloudformation-9abb2ad5fe57)
- 
- ⛈️    [Creation of Networking Infrastructure using CloudFormation](https://medium.com/@vjraghavanv/creation-of-networking-infrastructure-using-cloudformation-9e4c7a78b212)
+ ## 🧮 Categorisation
 
- ⛈️    [Creation of EC2 Instances using CloudFormation and detailed information on Stack Status and Transitions](https://medium.com/@vjraghavanv/creation-of-ec2-instances-using-cloudformation-and-detailed-information-on-stack-status-and-2899a22f850c)
- 
- ⛈️👨🏻‍💻  [Observability Vs Monitoring](https://medium.com/@vjraghavanv/week11awsworkshopschallenge-observability-vs-monitoring-24c42d465506)
+ ## 👨🏻‍💻 Serverless
 
  ⛈️👨🏻‍💻  [Build Serverless Apps with Application Composer and Code Whisperer](https://medium.com/@vjraghavanv/week11awsworkshopschallenge-build-serverless-apps-with-application-composer-and-code-whisperer-08c58628ee91)
- 
- ⛈️👨🏻‍💻  [Querying S3 files using AWS Athena](https://medium.com/@vjraghavanv/week10awsworkshopschallenge-querying-s3-files-using-aws-athena-e647fb5e0352)
- 
- ⛈️👨🏻‍💻  [Building event-driven architecture on AWS using Amazon EventBridge](https://medium.com/@vjraghavanv/week9awsworkshopschallenge-building-event-driven-architecture-on-aws-af8198128a89)
 
- ⛈️👨🏻‍💻  [Building a serverless Facial Analysis system with AWS Kinesis Video Stream & Amazon Rekognition](https://medium.com/@vjraghavanv/building-a-serverless-facial-analysis-system-with-aws-kinesis-video-stream-amazon-rekognition-f63dc08f7600)
+⛈️👨🏻‍💻  [Building event-driven architecture on AWS using Amazon EventBridge](https://medium.com/@vjraghavanv/week9awsworkshopschallenge-building-event-driven-architecture-on-aws-af8198128a89)
 
- ⛈️👨🏻‍💻  [How to do Auto Scaling on Amazon ECS by creating the cluster, services, and task definitions](https://medium.com/@vjraghavanv/how-to-do-auto-scaling-on-amazon-ecs-by-creating-the-cluster-services-and-task-definitions-738907b95892)
- 
- ⛈️👨🏻‍💻  [Creation of VPC and EC2 instance by deploying Nested Stack using AWS Cloud Formation template](https://medium.com/@vjraghavanv/creation-of-vpc-and-ec2-instance-by-deploying-nested-stack-using-aws-cloud-formation-template-075d49ed968a)
+⛈️👨🏻‍💻  [Building a serverless Facial Analysis system with AWS Kinesis Video Stream & Amazon Rekognition](https://medium.com/@vjraghavanv/building-a-serverless-facial-analysis-system-with-aws-kinesis-video-stream-amazon-rekognition-f63dc08f7600)
 
- ⛈️👨🏻‍💻  [How to create an S3 bucket with versioning enabled using AWS Cloud Formation Stack](https://medium.com/cloudnloud/%EF%B8%8Fhow-to-create-an-s3-bucket-with-versioning-enabled-using-aws-cloud-formation-stack-364b4ec647f2)
+⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://medium.com/cloudnloud/build-your-own-face-recognition-service-using-amazon-rekognition-c75919d7f66e)
 
- ⛈️👨🏻‍💻  [How to make an EC2 Instance as a MariaDB server](https://medium.com/cloudnloud/how-to-make-an-ec2-instance-as-a-mariadb-server-43233d804e86)
- 
- ⛈️👨🏻‍💻  [How to import from S3 to Dynamo DB](https://medium.com/@vjraghavanv/week5awsworkshopschallenge-how-to-import-from-s3-to-dynamo-db-bb7704aeb5d5)
- 
- ⛈️👨🏻‍💻  [S3 Security Exercises(Configure S3 Block Public Access)](https://medium.com/@vjraghavanv/week4awsworkshopschallenge-s3-security-exercises-configure-s3-block-public-access-ba44b9710719)
- 
- ⛈️👨🏻‍💻  [S3 Security Exercises (Require HTTPS, Require SSE-S3 Encryption, Block public ACLs)](https://medium.com/@vjraghavanv/week4awsworkshopschallenge-s3-security-exercises-require-https-require-sse-s3-encryption-block-35475cc02f2b)
- 
- 🕵🏻⛈️  [How to configure and install Jenkins in AWS EC2 Ubuntu server to run selenium scripts](https://medium.com/cloudnloud/how-to-configure-and-install-jenkins-in-aws-ec2-ubuntu-server-to-run-selenium-scripts-15ae72aef1c6)
- 
- ⛈️    [VPC Fundamentals (Private Internet connectivity)](https://medium.com/@vjraghavanv/week3awsworkshopschallenge-vpc-fundamentals-private-internet-connectivity-5707d17b76e2)
- 
- ⛈️    [VPC Fundamentals (Public Internet connectivity)](https://medium.com/@vjraghavanv/week3awsworkshopschallenge-vpc-fundamentals-11d1bb12d424)
- 
- 🕵🏻⛈️  [Selenium script execution in AWS EC2 instance using selenium grid and docker containers](https://medium.com/cloudnloud/selenium-script-execution-in-aws-ec2-instance-using-selenium-grid-and-docker-containers-6fd2b0c8c1c1)
- 
- ⛈️👨🏻‍💻  [Monitoring and Alerting using Amazon EventBridge](https://medium.com/@vjraghavanv/week2awsworkshopschallenge-monitoring-and-alerting-03abc31c141b)
- 
- ⛈️👨🏻‍💻  [Programmatic Access](https://medium.com/@vjraghavanv/week2awsworkshopschallenge-programmatic-access-4f5e7a282dfd)
- 
- 🕵🏻     [How to protect your secrets in properties/configuration file-Test Automation](https://medium.com/@vjraghavanv/how-to-protect-secrets-in-properties-configuration-file-test-automation-6ac510d85cca)
- 
- ⛈️👨🏻‍💻  [IAM Hands on Lab](https://medium.com/@vjraghavanv/week1awsworkshopschallenge-iam-hands-on-lab-16a4fa8ecedc)
- 
- ⛈️👨🏻‍💻  [EC2 Linux Hands on Lab](https://medium.com/@vjraghavanv/week1awsworkshopschallenge-ec2-linux-hands-on-lab-ec7602764ee5)
- 
- ⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://medium.com/cloudnloud/build-your-own-face-recognition-service-using-amazon-rekognition-c75919d7f66e)
- 
- ⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://medium.com/cloudnloud/automated-order-processing-system-with-aws-lambda-amazon-s3-and-dynamo-db-d3c1bdf33d86)
- 
- ⛈️     [Creation of AWS resources using Terraform](https://medium.com/cloudnloud/creation-of-aws-resources-using-terraform-4f249703bcc6)
- 
- ⛈️     [How to create Auto Scaling Group (ASG) to work with an Application Load Balancer(ALB)](https://medium.com/cloudnloud/how-to-create-auto-scaling-group-asg-to-work-with-an-application-load-balancer-alb-5c573cf55fd5)
- 
- ⛈️     [Hosting Web Application using Amazon Amplify and backend integration using serverless-End to end flow](https://medium.com/@vjraghavanv/hosting-web-application-using-amazon-amplify-and-backend-integration-using-serverless-end-to-end-2baec0df26d0)
- 
- ⛈️     [Amazon Cloudfront- How to access the static webpage from S3 Bucket through Amazon Cloudfront distribution](https://medium.com/@vjraghavanv/amazon-cloudfront-how-to-access-the-restricted-static-webpage-from-s3-bucket-through-amazon-249ba88b272e)
- 
- ⛈️     [How to use Elastic Network Interface on EC2 Instances over VPC](https://medium.com/@vjraghavanv/how-to-use-elastic-network-interface-over-vpc-8201c320be9)
- 
- ⛈️     [How to detect images using Amazon Rekognition, AWS Lambda and S3 bucket](https://medium.com/@vjraghavanv/how-to-detect-images-using-amazon-rekognition-aws-lambda-and-s3-bucket-3b65bfade24b)
- 
- ⛈️     [How to process and analyze text using Amazon Comprehend, AWS Lambda and S3 bucket](https://medium.com/@vjraghavanv/how-to-process-and-analyze-text-using-amazon-comprehend-aws-lambda-and-s3-bucket-98c8a1bc36c2)
- 
- ⛈️     [How to convert Speech to text using Amazon Transcribe, AWS Lambda and S3 Bucket](https://medium.com/@vjraghavanv/how-to-convert-speech-to-text-using-amazon-transcribe-aws-lambda-and-s3-bucket-f953a2d51118)
- 
- ⛈️     [How to extract text from document using Amazon Textract, S3 and Lambda API](https://medium.com/@vjraghavanv/how-to-extract-text-from-document-using-amazon-textract-s3-and-lambda-api-a376132b4d93)
+⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://medium.com/cloudnloud/automated-order-processing-system-with-aws-lambda-amazon-s3-and-dynamo-db-d3c1bdf33d86)
 
- ⛈️     [How to convert text to speech using Amazon Polly, AWS Lambda and S3 Bucket](https://medium.com/@vjraghavanv/how-to-convert-text-to-speech-using-amazon-polly-aws-lambda-and-s3-bucket-b30aa299d062)
+⛈️     [Hosting Web Application using Amazon Amplify and backend integration using serverless-End to end flow](https://medium.com/@vjraghavanv/hosting-web-application-using-amazon-amplify-and-backend-integration-using-serverless-end-to-end-2baec0df26d0)
 
- 🕵🏻⛈️   [How to create REST API using Amazon API Gateway + AWS Lambda (Serverless) + Dynamo DB and test using a POSTMAN tool](https://medium.com/cloudnloud/create-rest-api-using-aws-lambda-and-api-gateway-with-dynamo-db-436c039a343)
+⛈️     [How to detect images using Amazon Rekognition, AWS Lambda and S3 bucket](https://medium.com/@vjraghavanv/how-to-detect-images-using-amazon-rekognition-aws-lambda-and-s3-bucket-3b65bfade24b)
 
- 🕵🏻⛈️   [How to run Selenium tests in EC2 Instances using Docker](https://medium.com/@vjraghavanv/how-to-run-selenium-tests-in-ec2-instances-using-docker-a12c3a8a5247)
+🕵🏻⛈️   [How to create REST API using Amazon API Gateway + AWS Lambda (Serverless) + Dynamo DB and test using a POSTMAN tool](https://medium.com/cloudnloud/create-rest-api-using-aws-lambda-and-api-gateway-with-dynamo-db-436c039a343)
 
- 🕵🏻👨🏻‍🏫   [QonfX-Embracing the Future of Testing | Experience with Vijay](https://medium.com/@vjraghavanv/qonfx-embracing-the-future-of-testing-experience-with-vijay-ebf6a067f1df)
+⛈️     [How to use AWS Lambda Function with Amazon SNS](https://medium.com/cloudnloud/how-to-use-aws-lambda-function-with-amazon-sns-e8fe38097725)
 
- 🕵🏻⛈️   [Creation of pipeline using AWS Code build and code pipeline using selenium scripts](https://medium.com/@vjraghavanv/creation-of-pipeline-using-aws-code-build-and-code-pipeline-using-selenium-scripts-119b974ca45f)
+⛈️👨🏻‍💻  [Monitoring and Alerting using Amazon EventBridge](https://medium.com/@vjraghavanv/week2awsworkshopschallenge-monitoring-and-alerting-03abc31c141b)
 
- 🕵🏻⛈️   [AWS Device Farm-Remote test execution of Selenium UI Scripts](https://medium.com/@vjraghavanv/aws-device-farm-remote-test-execution-of-selenium-ui-scripts-220cb7df4bb7)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Data
+
+⛈️    [Creation of Storage Infrastructure(S3 Bucket) using CloudFormation](https://medium.com/@vjraghavanv/creation-of-storage-infrastructure-s3-bucket-using-cloudformation-9abb2ad5fe57)
+
+⛈️👨🏻‍💻  [Querying S3 files using AWS Athena](https://medium.com/@vjraghavanv/week10awsworkshopschallenge-querying-s3-files-using-aws-athena-e647fb5e0352)
+
+⛈️👨🏻‍💻  [How to create an S3 bucket with versioning enabled using AWS Cloud Formation Stack](https://medium.com/cloudnloud/%EF%B8%8Fhow-to-create-an-s3-bucket-with-versioning-enabled-using-aws-cloud-formation-stack-364b4ec647f2)
+
+⛈️👨🏻‍💻  [S3 Security Exercises(Configure S3 Block Public Access)](https://medium.com/@vjraghavanv/week4awsworkshopschallenge-s3-security-exercises-configure-s3-block-public-access-ba44b9710719)
  
- 🕵🏻⛈️   [Amazon Inspector -Security Testing tool](https://medium.com/@vjraghavanv/amazon-inspector-security-testing-tool-76db21a2fbad)
+⛈️👨🏻‍💻  [S3 Security Exercises (Require HTTPS, Require SSE-S3 Encryption, Block public ACLs)](https://medium.com/@vjraghavanv/week4awsworkshopschallenge-s3-security-exercises-require-https-require-sse-s3-encryption-block-35475cc02f2b)
 
- ⛈️     [How to convert Single Tier into Multi Tier architecture using WordPress Bitnami AMIs](https://medium.com/@vjraghavanv/how-to-convert-single-tier-into-multi-tier-architecture-using-wordpress-bitnami-amis-35cfa85e1bbd)
-
- ⛈️     [How to host a public static website using S3 bucket](https://medium.com/@vjraghavanv/how-to-host-a-public-static-website-using-s3-bucket-35b43d68c172)
-
- ⛈️     [How to Create Instance using Bitnami WordPress AMIs and how to use load balancer among two Bitnami instances](https://medium.com/cloudnloud/how-to-create-instance-using-bitnami-wordpress-amis-and-how-to-use-load-balancer-among-two-bitnami-d52ed8154bd2)
-
- ⛈️     [How to create an Linux EC2 instance and webserver using bootstrap script at one go](https://medium.com/cloudnloud/how-to-create-an-linux-ec2-instance-and-webserver-using-bootstrap-script-at-one-go-7646fe9cecc1)
-
- ⛈️     [How to use AWS Lambda Function with Amazon SNS](https://medium.com/cloudnloud/how-to-use-aws-lambda-function-with-amazon-sns-e8fe38097725)
-  
- 🕵🏻     [API Security Testing in Postman using Pynt](https://medium.com/@vjraghavanv/api-security-testing-in-postman-using-pynt-ad1e55d189ce)
+⛈️👨🏻‍💻  [How to make an EC2 Instance as a MariaDB server](https://medium.com/cloudnloud/how-to-make-an-ec2-instance-as-a-mariadb-server-43233d804e86)
  
- ⛈️     [How do I passed my Microsoft Azure (AZ-900) exam without practical knowledge in first attempt](https://medium.com/@vjraghavanv/how-do-i-passed-my-microsoft-azure-az-900-exam-without-practical-knowledge-in-first-attempt-9ebed667b9c3)
+⛈️👨🏻‍💻  [How to import from S3 to Dynamo DB](https://medium.com/@vjraghavanv/week5awsworkshopschallenge-how-to-import-from-s3-to-dynamo-db-bb7704aeb5d5)
 
- ⛈️     [How do I passed my AWS Cloud practitioner exam without practical knowledge in first attempt](https://medium.com/@vjraghavanv/how-do-i-passed-my-aws-cloud-practitioner-exam-without-practical-knowledge-in-first-attempt-7b67395e20d7)
+⛈️     [How to host a public static website using S3 bucket](https://medium.com/@vjraghavanv/how-to-host-a-public-static-website-using-s3-bucket-35b43d68c172)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Machine Learning and Gen AI
+
+⛈️     [How to process and analyze text using Amazon Comprehend, AWS Lambda and S3 bucket](https://medium.com/@vjraghavanv/how-to-process-and-analyze-text-using-amazon-comprehend-aws-lambda-and-s3-bucket-98c8a1bc36c2)
  
+⛈️     [How to convert Speech to text using Amazon Transcribe, AWS Lambda and S3 Bucket](https://medium.com/@vjraghavanv/how-to-convert-speech-to-text-using-amazon-transcribe-aws-lambda-and-s3-bucket-f953a2d51118)
+ 
+⛈️     [How to extract text from document using Amazon Textract, S3 and Lambda API](https://medium.com/@vjraghavanv/how-to-extract-text-from-document-using-amazon-textract-s3-and-lambda-api-a376132b4d93)
+
+⛈️     [How to convert text to speech using Amazon Polly, AWS Lambda and S3 Bucket](https://medium.com/@vjraghavanv/how-to-convert-text-to-speech-using-amazon-polly-aws-lambda-and-s3-bucket-b30aa299d062)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Dev Tools
+
+🕵🏻⛈️  [How to configure and install Jenkins in AWS EC2 Ubuntu server to run selenium scripts](https://medium.com/cloudnloud/how-to-configure-and-install-jenkins-in-aws-ec2-ubuntu-server-to-run-selenium-scripts-15ae72aef1c6)
+
+🕵🏻⛈️  [Selenium script execution in AWS EC2 instance using selenium grid and docker containers](https://medium.com/cloudnloud/selenium-script-execution-in-aws-ec2-instance-using-selenium-grid-and-docker-containers-6fd2b0c8c1c1)
+
+🕵🏻⛈️   [Creation of pipeline using AWS Code build and code pipeline using selenium scripts](https://medium.com/@vjraghavanv/creation-of-pipeline-using-aws-code-build-and-code-pipeline-using-selenium-scripts-119b974ca45f)
+
+🕵🏻⛈️   [AWS Device Farm-Remote test execution of Selenium UI Scripts](https://medium.com/@vjraghavanv/aws-device-farm-remote-test-execution-of-selenium-ui-scripts-220cb7df4bb7)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Containers
+
+⛈️    [Creation of EC2 Instances using CloudFormation and detailed information on Stack Status and Transitions](https://medium.com/@vjraghavanv/creation-of-ec2-instances-using-cloudformation-and-detailed-information-on-stack-status-and-2899a22f850c)
+
+⛈️👨🏻‍💻  [How to do Auto Scaling on Amazon ECS by creating the cluster, services, and task definitions](https://medium.com/@vjraghavanv/how-to-do-auto-scaling-on-amazon-ecs-by-creating-the-cluster-services-and-task-definitions-738907b95892)
+
+⛈️👨🏻‍💻  [EC2 Linux Hands on Lab](https://medium.com/@vjraghavanv/week1awsworkshopschallenge-ec2-linux-hands-on-lab-ec7602764ee5)
+
+🕵🏻⛈️   [How to run Selenium tests in EC2 Instances using Docker](https://medium.com/@vjraghavanv/how-to-run-selenium-tests-in-ec2-instances-using-docker-a12c3a8a5247)
+ 
+⛈️     [How to convert Single Tier into Multi Tier architecture using WordPress Bitnami AMIs](https://medium.com/@vjraghavanv/how-to-convert-single-tier-into-multi-tier-architecture-using-wordpress-bitnami-amis-35cfa85e1bbd)
+
+⛈️     [How to Create Instance using Bitnami WordPress AMIs and how to use load balancer among two Bitnami instances](https://medium.com/cloudnloud/how-to-create-instance-using-bitnami-wordpress-amis-and-how-to-use-load-balancer-among-two-bitnami-d52ed8154bd2)
+
+⛈️     [How to create an Linux EC2 instance and webserver using bootstrap script at one go](https://medium.com/cloudnloud/how-to-create-an-linux-ec2-instance-and-webserver-using-bootstrap-script-at-one-go-7646fe9cecc1)
+
+⛈️     [How to create Auto Scaling Group (ASG) to work with an Application Load Balancer(ALB)](https://medium.com/cloudnloud/how-to-create-auto-scaling-group-asg-to-work-with-an-application-load-balancer-alb-5c573cf55fd5)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Networking and Content Delivery
+
+⛈️    [Creation of Networking Infrastructure using CloudFormation](https://medium.com/@vjraghavanv/creation-of-networking-infrastructure-using-cloudformation-9e4c7a78b212)
+
+⛈️👨🏻‍💻  [Creation of VPC and EC2 instance by deploying Nested Stack using AWS Cloud Formation template](https://medium.com/@vjraghavanv/creation-of-vpc-and-ec2-instance-by-deploying-nested-stack-using-aws-cloud-formation-template-075d49ed968a)
+
+⛈️    [VPC Fundamentals (Private Internet connectivity)](https://medium.com/@vjraghavanv/week3awsworkshopschallenge-vpc-fundamentals-private-internet-connectivity-5707d17b76e2)
+ 
+⛈️    [VPC Fundamentals (Public Internet connectivity)](https://medium.com/@vjraghavanv/week3awsworkshopschallenge-vpc-fundamentals-11d1bb12d424)
+
+⛈️     [Amazon Cloudfront- How to access the static webpage from S3 Bucket through Amazon Cloudfront distribution](https://medium.com/@vjraghavanv/amazon-cloudfront-how-to-access-the-restricted-static-webpage-from-s3-bucket-through-amazon-249ba88b272e) 
+
+⛈️     [Creation of AWS resources using Terraform](https://medium.com/cloudnloud/creation-of-aws-resources-using-terraform-4f249703bcc6)
+
+⛈️     [How to use Elastic Network Interface on EC2 Instances over VPC](https://medium.com/@vjraghavanv/how-to-use-elastic-network-interface-over-vpc-8201c320be9)
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+ 
+## 👨🏻‍💻 Cloud Operations
+
+⛈️👨🏻‍💻  [Observability Vs Monitoring](https://medium.com/@vjraghavanv/week11awsworkshopschallenge-observability-vs-monitoring-24c42d465506)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 👨🏻‍💻 Security and Identity
+
+🕵🏻⛈️   [Amazon Inspector -Security Testing tool](https://medium.com/@vjraghavanv/amazon-inspector-security-testing-tool-76db21a2fbad)
+
+⛈️👨🏻‍💻  [IAM Hands on Lab](https://medium.com/@vjraghavanv/week1awsworkshopschallenge-iam-hands-on-lab-16a4fa8ecedc) 
+
+⛈️👨🏻‍💻  [Programmatic Access](https://medium.com/@vjraghavanv/week2awsworkshopschallenge-programmatic-access-4f5e7a282dfd)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+ 
+## 🕵🏻 Testing
+
+🕵🏻     [How to protect your secrets in properties/configuration file-Test Automation](https://medium.com/@vjraghavanv/how-to-protect-secrets-in-properties-configuration-file-test-automation-6ac510d85cca)
+
+🕵🏻👨🏻‍🏫   [QonfX-Embracing the Future of Testing | Experience with Vijay](https://medium.com/@vjraghavanv/qonfx-embracing-the-future-of-testing-experience-with-vijay-ebf6a067f1df)
+
+🕵🏻     [API Security Testing in Postman using Pynt](https://medium.com/@vjraghavanv/api-security-testing-in-postman-using-pynt-ad1e55d189ce)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+## 🎓 Certifications
+
+⛈️     [How do I passed my Microsoft Azure (AZ-900) exam without practical knowledge in first attempt](https://medium.com/@vjraghavanv/how-do-i-passed-my-microsoft-azure-az-900-exam-without-practical-knowledge-in-first-attempt-9ebed667b9c3)
+
+⛈️     [How do I passed my AWS Cloud practitioner exam without practical knowledge in first attempt](https://medium.com/@vjraghavanv/how-do-i-passed-my-aws-cloud-practitioner-exam-without-practical-knowledge-in-first-attempt-7b67395e20d7)
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 <!-- BLOG-POST-LIST:END -->
 
 # 📒 &nbsp;<code style="color: blue">𝐃𝐞𝐯.𝐭𝐨 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐛𝐥𝐨𝐠 𝐩𝐨𝐬𝐭𝐬</code>

@@ -140,11 +140,11 @@
  
 ⛈️    [VPC Fundamentals (Public Internet connectivity)](https://medium.com/@vjraghavanv/week3awsworkshopschallenge-vpc-fundamentals-11d1bb12d424)
 
-⛈️     [Amazon Cloudfront- How to access the static webpage from S3 Bucket through Amazon Cloudfront distribution](https://medium.com/@vjraghavanv/amazon-cloudfront-how-to-access-the-restricted-static-webpage-from-s3-bucket-through-amazon-249ba88b272e) 
+⛈️    [Amazon Cloudfront- How to access the static webpage from S3 Bucket through Amazon Cloudfront distribution](https://medium.com/@vjraghavanv/amazon-cloudfront-how-to-access-the-restricted-static-webpage-from-s3-bucket-through-amazon-249ba88b272e) 
 
-⛈️     [Creation of AWS resources using Terraform](https://medium.com/cloudnloud/creation-of-aws-resources-using-terraform-4f249703bcc6)
+⛈️    [Creation of AWS resources using Terraform](https://medium.com/cloudnloud/creation-of-aws-resources-using-terraform-4f249703bcc6)
 
-⛈️     [How to use Elastic Network Interface on EC2 Instances over VPC](https://medium.com/@vjraghavanv/how-to-use-elastic-network-interface-over-vpc-8201c320be9)
+⛈️    [How to use Elastic Network Interface on EC2 Instances over VPC](https://medium.com/@vjraghavanv/how-to-use-elastic-network-interface-over-vpc-8201c320be9)
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
  
@@ -186,66 +186,96 @@
 # 📒 &nbsp;<code style="color: blue">𝐃𝐞𝐯.𝐭𝐨 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐛𝐥𝐨𝐠 𝐩𝐨𝐬𝐭𝐬</code>
 [![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/vjraghavanv)
 <!-- BLOG-POST-LIST:START -->
- 🕵🏻⛈️      [How to create REST API using Amazon API Gateway + AWS Lambda(Serverless) + Dynamo DB and test using a POSTMAN tool](https://dev.to/awsugncr/how-to-create-rest-api-using-amazon-api-gateway-aws-lambdaserverless-dynamo-db-and-test-using-a-postman-tool-57a)
+## 👨🏻‍💻 Serverless
+ 🕵🏻⛈️  [How to create REST API using Amazon API Gateway + AWS Lambda(Serverless) + Dynamo DB and test using a POSTMAN tool](https://dev.to/awsugncr/how-to-create-rest-api-using-amazon-api-gateway-aws-lambdaserverless-dynamo-db-and-test-using-a-postman-tool-57a)
 
- 🕵🏻⛈️      [How to configure and install Jenkins in AWS EC2 Ubuntu server to run selenium scripts](https://dev.to/awsugncr/how-to-configure-and-install-jenkins-in-aws-ec2-ubuntu-server-to-run-selenium-scripts-18f1)
+## 👨🏻‍💻 Dev Tools
+ 🕵🏻⛈️  [How to configure and install Jenkins in AWS EC2 Ubuntu server to run selenium scripts](https://dev.to/awsugncr/how-to-configure-and-install-jenkins-in-aws-ec2-ubuntu-server-to-run-selenium-scripts-18f1)
 
- 🕵🏻⛈️      [Selenium script execution in AWS EC2 instance using selenium grid and docker containers](https://dev.to/awsugncr/selenium-script-execution-in-aws-ec2-instance-using-selenium-grid-and-docker-containers-49j)
+ 🕵🏻⛈️  [Selenium script execution in AWS EC2 instance using selenium grid and docker containers](https://dev.to/awsugncr/selenium-script-execution-in-aws-ec2-instance-using-selenium-grid-and-docker-containers-49j)
 
- ⛈️        [AWS Prelude](https://dev.to/vjraghavanv/aws-prelude-360i)
+## 👨🏻‍💻 AWS Prelude
+ ⛈️    [AWS Prelude](https://dev.to/vjraghavanv/aws-prelude-360i)
 <!-- BLOG-POST-LIST:END -->
 
 # 🎥 &nbsp;<code style="color: blue">𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐛𝐥𝐨𝐠 𝐩𝐨𝐬𝐭𝐬</code> 🎦
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmN0TMmkol3bx-Arbuo7a5w)
 
 <!-- YOUTUBE-POST-LIST:START -->
-  ⛈️    [AZConf Video - Amazon Rekognition](https://www.youtube.com/watch?v=D0gc9ECdIEQ)
+## 🧮 Categorisation
 
-  🕵🏻     [SelectorsHub NextGen 5.0 features](https://www.youtube.com/watch?v=GEgzkdbLml4)
-  
+ ## 👨🏻‍💻 Serverless
+  ⛈️     [AZConf Video - Amazon Rekognition](https://www.youtube.com/watch?v=D0gc9ECdIEQ)
+
   ⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://www.youtube.com/watch?v=HtA7UjMPcG8&t=555s)
     
   ⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://www.youtube.com/watch?v=NbP9VLq3gwc)
-      
-  ⛈️     [Creation of AWS resources using Terraform](https://www.youtube.com/watch?v=nOh6YCLeGhU)
-    
-  ⛈️     [How to create Auto Scaling Group (ASG) to work with an Application Load Balancer(ALB)](https://www.youtube.com/watch?v=LkKZjUip9oM)
-    
+
   ⛈️     [Hosting Web Application using Amazon Amplify & backend integration using serverless-End to end flow](https://www.youtube.com/watch?v=RHgWxCn1IoM)
-
-  ⛈️     [Use case example of How to access the static webpage from S3 through Amazon Cloudfront](https://www.youtube.com/watch?v=j6ZqKELDbX8)
-
-  ⛈️     [Use case on Elastic Network Interface(ENI) in EC2 Instances over VPC](https://www.youtube.com/watch?v=GmwQSnwtWYw)
-
-  🕵🏻     [Pynt - API Automated Security Testing Tool using CI/CD](https://www.youtube.com/watch?v=DtrgHQI5HgI)
-
-  ⛈️     [Amazon Rekognition - To detect, analyze and process the images](https://www.youtube.com/watch?v=JZ80WpxQFqA)
-
-  ⛈️     [Amazon Comprehend - To process the text](https://www.youtube.com/watch?v=9cI2kwPeOc4)
-
-  ⛈️     [Amazon Transcribe - Speech to Text](https://www.youtube.com/watch?v=w3jeMTrEEB0)
-
-  🕵🏻     [testsigma | Low Code API Automation testing tool | Restful API testing|](https://www.youtube.com/watch?v=go3ofAziTOc)
-
-  ⛈️     [Amazon Extract](https://www.youtube.com/watch?v=Oex0Ar1BT6c)
-
-  ⛈️     [Amazon Polly - Text to Speech](https://www.youtube.com/watch?v=sLXgAeNbSSg)
 
   ⛈️     [Create REST API using AWS Lambda and API Gateway with Dynamo DB](https://www.youtube.com/watch?v=-NtrgL0Jntc&t=115s)
 
-  🕵🏻     [Pynt - API Automated Security Testing Tool using Newman](https://www.youtube.com/watch?v=94UTiXdUvAA&t=2s)
+  ⛈️     [Amazon Rekognition - To detect, analyze and process the images](https://www.youtube.com/watch?v=JZ80WpxQFqA)
 
-  🕵🏻     [Pynt - API Automated Security Testing Tool using Postman](https://www.youtube.com/watch?v=Vbz7jGdf5UY) 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
-  🕵🏻⛈️  [How to run Selenium tests in EC2 Instances using Docker](https://www.youtube.com/watch?v=InLRtfIoBZw)
+ ## 👨🏻‍💻 Machine Learning and Gen AI
+ 
+ ⛈️     [Amazon Comprehend - To process the text](https://www.youtube.com/watch?v=9cI2kwPeOc4)
 
-  🕵🏻⛈️  [How do we use AWS Code Commit, Code Build and Code Pipeline for running the selenium execution](https://www.youtube.com/watch?v=22xgyag70zw)
+ ⛈️     [Amazon Transcribe - Speech to Text](https://www.youtube.com/watch?v=w3jeMTrEEB0)
 
-  🕵🏻⛈️  [Running the UI Selenium suite in AWSDeviceFarm](https://www.youtube.com/watch?v=F1MH218mA7E&t=127s)
+ ⛈️     [Amazon Extract](https://www.youtube.com/watch?v=Oex0Ar1BT6c)
 
-  ⛈️    [Hosting a static public website in AWS S3 bucket](https://www.youtube.com/watch?v=q5KtCqjWsB8)
+ ⛈️     [Amazon Polly - Text to Speech](https://www.youtube.com/watch?v=sLXgAeNbSSg)
 
-  🕵🏻    [Overview of Pynt - API Security Testing](https://www.youtube.com/watch?v=3vXt-_1VO3c)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+ ## 👨🏻‍💻 Containers
+
+ ⛈️     [How to create Auto Scaling Group (ASG) to work with an Application Load Balancer(ALB)](https://www.youtube.com/watch?v=LkKZjUip9oM)
+
+ 🕵🏻⛈️  [How to run Selenium tests in EC2 Instances using Docker](https://www.youtube.com/watch?v=InLRtfIoBZw) 
+ 
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+ ## 👨🏻‍💻 Networking and Content Delivery
+
+ ⛈️     [Creation of AWS resources using Terraform](https://www.youtube.com/watch?v=nOh6YCLeGhU)
+
+ ⛈️     [Use case example of How to access the static webpage from S3 through Amazon Cloudfront](https://www.youtube.com/watch?v=j6ZqKELDbX8)
+
+ ⛈️     [Use case on Elastic Network Interface(ENI) in EC2 Instances over VPC](https://www.youtube.com/watch?v=GmwQSnwtWYw)
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+ ## 👨🏻‍💻 Dev Tools
+
+ 🕵🏻⛈️  [How do we use AWS Code Commit, Code Build and Code Pipeline for running the selenium execution](https://www.youtube.com/watch?v=22xgyag70zw)
+
+ 🕵🏻⛈️  [Running the UI Selenium suite in AWSDeviceFarm](https://www.youtube.com/watch?v=F1MH218mA7E&t=127s)
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+ ## 👨🏻‍💻 Data
+
+ ⛈️    [Hosting a static public website in AWS S3 bucket](https://www.youtube.com/watch?v=q5KtCqjWsB8)
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+ ## 👨🏻‍💻 Testing
+
+ 🕵🏻     [SelectorsHub NextGen 5.0 features](https://www.youtube.com/watch?v=GEgzkdbLml4)
+      
+ 🕵🏻     [Pynt - API Automated Security Testing Tool using CI/CD](https://www.youtube.com/watch?v=DtrgHQI5HgI)
+  
+ 🕵🏻     [testsigma | Low Code API Automation testing tool | Restful API testing|](https://www.youtube.com/watch?v=go3ofAziTOc)
+
+ 🕵🏻     [Pynt - API Automated Security Testing Tool using Newman](https://www.youtube.com/watch?v=94UTiXdUvAA&t=2s)
+
+ 🕵🏻     [Pynt - API Automated Security Testing Tool using Postman](https://www.youtube.com/watch?v=Vbz7jGdf5UY) 
+
+ 🕵🏻    [Overview of Pynt - API Security Testing](https://www.youtube.com/watch?v=3vXt-_1VO3c)
    <!-- YOUTUBE-POST-LIST:END -->   
 
 # 🗣️ 🎙️ <code style="color: blue">𝐌𝐲 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐎𝐭𝐡𝐞𝐫 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐄𝐯𝐞𝐧𝐭𝐬.</code>

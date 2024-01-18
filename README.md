@@ -44,17 +44,17 @@
 
  ## 👨🏻‍💻 Serverless
 
+ ⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://medium.com/cloudnloud/build-your-own-face-recognition-service-using-amazon-rekognition-c75919d7f66e)
+
+ ⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://medium.com/cloudnloud/automated-order-processing-system-with-aws-lambda-amazon-s3-and-dynamo-db-d3c1bdf33d86)
+
+ ⛈️     [Hosting Web Application using Amazon Amplify and backend integration using serverless-End to end flow](https://medium.com/@vjraghavanv/hosting-web-application-using-amazon-amplify-and-backend-integration-using-serverless-end-to-end-2baec0df26d0)
+
+ ⛈️👨🏻‍💻  [Building a serverless Facial Analysis system with AWS Kinesis Video Stream & Amazon Rekognition](https://medium.com/@vjraghavanv/building-a-serverless-facial-analysis-system-with-aws-kinesis-video-stream-amazon-rekognition-f63dc08f7600)
+
  ⛈️👨🏻‍💻  [Build Serverless Apps with Application Composer and Code Whisperer](https://medium.com/@vjraghavanv/week11awsworkshopschallenge-build-serverless-apps-with-application-composer-and-code-whisperer-08c58628ee91)
 
 ⛈️👨🏻‍💻  [Building event-driven architecture on AWS using Amazon EventBridge](https://medium.com/@vjraghavanv/week9awsworkshopschallenge-building-event-driven-architecture-on-aws-af8198128a89)
-
-⛈️👨🏻‍💻  [Building a serverless Facial Analysis system with AWS Kinesis Video Stream & Amazon Rekognition](https://medium.com/@vjraghavanv/building-a-serverless-facial-analysis-system-with-aws-kinesis-video-stream-amazon-rekognition-f63dc08f7600)
-
-⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://medium.com/cloudnloud/build-your-own-face-recognition-service-using-amazon-rekognition-c75919d7f66e)
-
-⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://medium.com/cloudnloud/automated-order-processing-system-with-aws-lambda-amazon-s3-and-dynamo-db-d3c1bdf33d86)
-
-⛈️     [Hosting Web Application using Amazon Amplify and backend integration using serverless-End to end flow](https://medium.com/@vjraghavanv/hosting-web-application-using-amazon-amplify-and-backend-integration-using-serverless-end-to-end-2baec0df26d0)
 
 ⛈️     [How to detect images using Amazon Rekognition, AWS Lambda and S3 bucket](https://medium.com/@vjraghavanv/how-to-detect-images-using-amazon-rekognition-aws-lambda-and-s3-bucket-3b65bfade24b)
 
@@ -205,13 +205,13 @@
 ## 🧮 Categorisation
 
  ## 👨🏻‍💻 Serverless
-  ⛈️     [AZConf Video - Amazon Rekognition](https://www.youtube.com/watch?v=D0gc9ECdIEQ)
-
   ⛈️     [Build Your Own Face Recognition Service Using Amazon Rekognition](https://www.youtube.com/watch?v=HtA7UjMPcG8&t=555s)
-    
+
   ⛈️     [Automated Order Processing system with AWS Lambda, Amazon S3 and Dynamo DB](https://www.youtube.com/watch?v=NbP9VLq3gwc)
 
   ⛈️     [Hosting Web Application using Amazon Amplify & backend integration using serverless-End to end flow](https://www.youtube.com/watch?v=RHgWxCn1IoM)
+   
+  ⛈️     [AZConf Video - Amazon Rekognition](https://www.youtube.com/watch?v=D0gc9ECdIEQ)
 
   ⛈️     [Create REST API using AWS Lambda and API Gateway with Dynamo DB](https://www.youtube.com/watch?v=-NtrgL0Jntc&t=115s)
 

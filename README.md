@@ -280,12 +280,14 @@
 
 # 🗣️ 🎙️ <code style="color: blue">𝐌𝐲 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐎𝐭𝐡𝐞𝐫 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐄𝐯𝐞𝐧𝐭𝐬.</code>
 
+ 🌈  [AWS RE:INVENT re:CAP](https://www.linkedin.com/posts/awsugmdu_awsmadurai-awsreinventrecap-virtualevent-activity-7159415703488389121-4XyR?utm_source=share&utm_medium=member_desktop)
+---
   🌈  [azconf-speaker-vijayaraghavan-vashudevan-2023](https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023)
  ---     
   🌈  [azconf-2023](https://azconf.dev/)
 ---        
 <p align="left">
-        <img src="images/gif/azconf.gif">
+        <img src="images/gif/Talks.gif">
 </p>   
 
 ### 💻 Tech Stack:

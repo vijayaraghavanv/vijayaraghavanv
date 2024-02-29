@@ -291,7 +291,7 @@
   🌈  [azconf-2023](https://twitter.com/AZConfDev/status/1739549101749100603)
 ---        
 <p align="left">
-        <img src="images/gif/Talks.gif">
+        <img src="videos/Talks.mp4">
 </p>   
 
 ### 💻 Tech Stack:

@@ -286,9 +286,9 @@
 ---
  🌈  [AWS RE:INVENT re:CAP](https://www.linkedin.com/posts/awsugmdu_awsmadurai-awsreinventrecap-virtualevent-activity-7159415703488389121-4XyR?utm_source=share&utm_medium=member_desktop)
 ---
-  🌈  [azconf-speaker-vijayaraghavan-vashudevan-2023](https://www.linkedin.com/posts/vjraghavanv_azconf2023-cloud-ai-activity-7118871813182418944-RgTl?utm_source=share&utm_medium=member_desktop)
+  🌈  [azconf-speaker-vijayaraghavan-vashudevan-2023](https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023)
 ---     
-  🌈  [azconf-2023](https://twitter.com/AZConfDev/status/1739549101749100603)
+  🌈  [azconf-2023](https://azconf.dev/)
 ---        
  
 https://github.com/vjraghavanv/vjraghavanv/assets/25921640/2e540b5f-6c1b-47d9-ba5a-85c9b1e41ca9

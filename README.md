@@ -286,12 +286,15 @@
 ---
  🌈  [AWS RE:INVENT re:CAP](https://www.linkedin.com/posts/awsugmdu_awsmadurai-awsreinventrecap-virtualevent-activity-7159415703488389121-4XyR?utm_source=share&utm_medium=member_desktop)
 ---
-  🌈  [azconf-speaker-vijayaraghavan-vashudevan-2023](https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023)
+ 🌈 [azconf-speaker-vijayaraghavan-vashudevan-2023](https://azconf.dev/speakers/vijayaraghavan-vashudevan-2023)
 ---     
-  🌈  [azconf-2023](https://azconf.dev/)
----        
+ 🌈 [azconf-2023](https://azconf.dev/)
+---       
+ 🌈 [Global AI Bootcamp Chennai 2024](https://www.linkedin.com/posts/navaneethangopal_learnwithexperts-chennaitechcommunity-globalaibootcamp2024-ugcPost-7167518474913665024-Usw3?utm_source=share&utm_medium=member_desktop)
+---     
  
-https://github.com/vjraghavanv/vjraghavanv/assets/25921640/2e540b5f-6c1b-47d9-ba5a-85c9b1e41ca9
+ https://github.com/vjraghavanv/vjraghavanv/assets/25921640/cec90155-88c6-4641-a6bf-a8079ff9e3ad
+
 
 
 

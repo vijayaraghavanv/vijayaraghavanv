@@ -294,7 +294,8 @@
 ---       
  🌈 [AWS User Group Bengaluru May meetup 2024](https://www.linkedin.com/posts/bhuvanas_aws-ug-blr-may-2024-meet-up-sat-may-18-activity-7194139009546133504-x4h4?utm_source=share&utm_medium=member_desktop)
 --- 
-
+**🗣️ [Vijayaraghavan Vashudevan_Tech Talks]**
+**Click on the image** 👇⤵️⏬
 [![Vijayaraghavan Vashudevan_Tech Talks](https://raw.githubusercontent.com/vjraghavanv/vjraghavanv/main/videos/vjraghavanv.JPG)](https://github.dev/vjraghavanv/vjraghavanv/blob/main/videos/Talks.mp4)
 
 ### 💻 Tech Stack:

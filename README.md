@@ -292,7 +292,7 @@
 ---       
  🌈 [Global AI Bootcamp Chennai 2024](https://www.linkedin.com/posts/navaneethangopal_learnwithexperts-chennaitechcommunity-globalaibootcamp2024-ugcPost-7167518474913665024-Usw3?utm_source=share&utm_medium=member_desktop)
 ---     
- 
+ <video src="https://github.com/vjraghavanv/vjraghavanv/blob/main/videos/Talks.mp4" width="300" />
  
 
 

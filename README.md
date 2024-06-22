@@ -291,9 +291,11 @@
  🌈 [azconf-2023](https://azconf.dev/)
 ---       
  🌈 [Global AI Bootcamp Chennai 2024](https://www.linkedin.com/posts/navaneethangopal_learnwithexperts-chennaitechcommunity-globalaibootcamp2024-ugcPost-7167518474913665024-Usw3?utm_source=share&utm_medium=member_desktop)
----     
- <video src="https://github.com/vjraghavanv/vjraghavanv/blob/main/videos/Talks.mp4" width="300" />
- 
+---       
+ 🌈 [AWS User Group Bengaluru May meetup 2024](https://www.linkedin.com/posts/bhuvanas_aws-ug-blr-may-2024-meet-up-sat-may-18-activity-7194139009546133504-x4h4?utm_source=share&utm_medium=member_desktop)
+--- 
+
+[![Vijayaraghavan Vashudevan_Tech Talks](https://raw.githubusercontent.com/vjraghavanv/vjraghavanv/main/videos/vjraghavanv.JPG)](https://raw.githubusercontent.com/vjraghavanv/vjraghavanv/main/videos/Talks.mp4)
 
 
 
